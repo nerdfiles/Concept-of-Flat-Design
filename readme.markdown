@@ -1,6 +1,6 @@
 #Concept of Flat Design
 
-##Sources
+##Inspiration
 
 1. http://blog.uxpin.com/2526/5-dangers-of-flat-design/
 2. http://www.computerworld.com/s/article/9239930/_Usability_not_flat_design_key_to_Monday_s_iOS_refresh
@@ -9,3 +9,19 @@
 5. http://blog.jthoenes.net/2011/11/24/14-golden-eggs-of-good-ui-design/
 6. https://github.com/nerdfiles/ui-resources/blob/master/notes/recommended-design-books.markdown
 7. http://www.amazon.com/books/dp/B007K59TBE
+
+##Adaptation of git-flow
+
+The following convention is a first shot at analogizing or mapping the git-flow branching strategy 
+for writing and publication of digital books.
+
+		master   <->  publication
+		develop  <->  draft
+		feature  <->  chapter
+		release  <->  edition
+		hotfix   <->  redact
+		support  <->  copyright
+
+##Author
+
+nerdfiles@gmail.com
