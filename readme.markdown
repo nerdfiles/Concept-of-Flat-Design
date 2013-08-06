@@ -22,6 +22,9 @@ for writing and publication of digital books.
 		hotfix   <->  redact
 		support  <->  copyright
 
+See http://nvie.com/posts/a-successful-git-branching-model/ for more information on these relationships 
+and a practical guide on ``git-flow``.
+
 ##Author
 
 nerdfiles@gmail.com
