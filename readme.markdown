@@ -1,5 +1,8 @@
 #Concept of Flat Design
 
+An application of Gilbert Ryle's Category Theory (the Category Mistake) as it applies to modern design 
+(graphic, web, industrial, type, etc.).
+
 ##Inspiration
 
 1. http://blog.uxpin.com/2526/5-dangers-of-flat-design/
