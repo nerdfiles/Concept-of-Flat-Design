@@ -2,7 +2,12 @@
 
 ##Type as a Construct
 
+Intersection of type design and industrial design; how usability of type informs 
+usability of the product.
+
 ##"Gestalt" versus "Global" Views
+
+A Product as a View.
 
 ##The Paradox of the Prototype
 
