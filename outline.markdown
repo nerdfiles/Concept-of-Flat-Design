@@ -73,4 +73,6 @@ agent, type as an objective vessel, and type as a designer. Thus, Type itself as
 designer through the Subject (designers as militants of design). A Popperian re-interpretation 
 of the epistemic backdrop of typography.
 
+##Cognetic Organic User Interfaces
 
+Text as the interstitial basis for grid system design; the presence of noncontent as a componenture of cognitive architecture.
