@@ -1,5 +1,7 @@
 #Concept of Flat Design
 
+[![Join the chat at https://gitter.im/nerdfiles/Concept-of-Flat-Design](https://badges.gitter.im/nerdfiles/Concept-of-Flat-Design.svg)](https://gitter.im/nerdfiles/Concept-of-Flat-Design?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An application of Gilbert Ryle's Category Theory (the Category Mistake) as it applies to modern design 
 (graphic, web, industrial, type, etc.).
 
